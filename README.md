@@ -1,4 +1,3 @@
-# dramesh98.github.io
 # Data scientist / Bioinformatician / Computational Biologist
 
 ### Education
